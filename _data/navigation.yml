@@ -13,8 +13,6 @@
 sidebar-category:
   - title: "📁 TIL"
     url: "/til"
-    category: "til"
 
   - title: "📁 SQL"
     url: "/sql"
-    category: "sql"
