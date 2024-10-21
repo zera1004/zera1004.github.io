@@ -1,0 +1,20 @@
+# main links
+#main:
+  #- title: "Category"
+  #  url: /categories/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+sidebar-category:
+  - title: "📁 TIL"
+    url: "/til"
+    category: "til"
+
+  - title: "📁 SQL"
+    url: "/sql"
+    category: "sql
