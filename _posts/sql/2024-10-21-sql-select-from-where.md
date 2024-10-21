@@ -1,3 +1,19 @@
+---
+title:  "[SQL] select, from, where"
+excerpt: "select, from, where에 대해 알기 쉽게 작성"
+
+categories:
+  - SQL
+tags:
+  - [SQL]
+
+toc: true
+toc_sticky: true
+ 
+date: 2024-10-21 18:50:10 +0900
+last_modified_at: 2024-10-21 18:50:10 +0900
+---
+
 ## SELECT와 FROM
 
 <br>
