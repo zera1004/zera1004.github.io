@@ -127,7 +127,6 @@ blockquote {
 
 a {
   text-decoration: none; /* 기본 밑줄 제거 */
-  border-bottom: none; /* 기본 밑줄 제거 */
   &:focus {
     @extend %tab-focus;
   }
