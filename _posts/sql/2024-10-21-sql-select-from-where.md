@@ -30,7 +30,7 @@ FROM students;
 
 ![select-name-age](https://github.com/user-attachments/assets/dc83bb02-87c7-47da-b0bd-47c5554ce1b9)
 
-예시는 ```students``` 테이블에서 ```name```과 ```age``` 컬럼의 데이터를 선택하여 보여줍니다.
+예시는 ```students``` 테이블에서 ```name```과 ```age``` 컬럼의 데이터를 선택하여 보여줍니다.  
 만약 students 테이블의 모든 데이터를 보려면 ```*```을 사용할 수 있습니다.
 
 <br>
@@ -121,7 +121,7 @@ WHERE age >= 18 AND age <= 22;
 
 ![where-age-and-age](https://github.com/user-attachments/assets/00c21324-7990-439b-bef8-0ec333cb5f1f)
 
-두가지 이상의 조건을 쓰려면 ```AND```와 ```OR```을 사용할 수 있습니다.
+두가지 이상의 조건을 쓰려면 ```AND```와 ```OR```을 사용할 수 있습니다.  
 이 쿼리는 18세 이상 22세 이하인 학생들의 데이터를 AND를 이용해서 가져옵니다.
 
 <br>
