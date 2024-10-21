@@ -1,5 +1,5 @@
 ---
-title:  "[SQL] select, from, where"
+title:  "[SQL] SELECT, FROM, WHERE"
 excerpt: "select, from, where에 대해 알기 쉽게 작성"
 
 categories:
