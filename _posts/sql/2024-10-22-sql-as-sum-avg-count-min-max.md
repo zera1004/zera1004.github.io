@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2024-10-22 17:15:10 +0900
-last_modified_at: 2024-10-22 17:15:10 +0900
+date: 2024-10-22 17:23:10 +0900
+last_modified_at: 2024-10-22 17:23:10 +0900
 ---
 
 ## AS (컬럼 이름 변경)
