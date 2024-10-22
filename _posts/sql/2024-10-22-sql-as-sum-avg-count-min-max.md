@@ -1,6 +1,6 @@
 ---
-title:  "[SQL] AS, 숫자 연산(+,-,*,/), SUM, AVG, COUNT, MIN, MAX"
-excerpt: "SQL AS, (+,-,*,/), SUM, AVG, COUNT, MIN, MAX에 대해 알아보기"
+title:  "[SQL] AS, 숫자 연산(+, -, *, /), SUM, AVG, COUNT, MIN, MAX"
+excerpt: "SQL AS, (+, -, *, /), SUM, AVG, COUNT, MIN, MAX에 대해 알아보기"
 
 categories:
   - SQL
