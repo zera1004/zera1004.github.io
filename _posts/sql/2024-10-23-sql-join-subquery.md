@@ -69,6 +69,8 @@ LEFT JOIN courses ON students.student_id = courses.student_id;
 
 ## 서브쿼리(SUBQUERY)
 
+<br>
+
 **서브쿼리는 쿼리 내에 포함된 또 다른 쿼리입니다.**  
 **주로 복잡한 쿼리에서 중간 데이터를 처리하거나 특정 조건을 만족하는 데이터를 추출하기 위해 사용됩니다.**
 
