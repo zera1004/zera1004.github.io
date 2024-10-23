@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2024-10-23 23:08:10 +0900
-last_modified_at: 2024-10-23 23:08:10 +0900
+date: 2024-10-23 23:09:10 +0900
+last_modified_at: 2024-10-23 23:09:10 +0900
 ---
 
 ## JOIN
