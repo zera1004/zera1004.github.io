@@ -19,6 +19,6 @@ sidebar-category:
     url: "/sql"
     category: "SQL"
 
-    - title: "📁 JavaScript"
+  - title: "📁 JavaScript"
     url: "/javascript"
     category: "JavaScript"
