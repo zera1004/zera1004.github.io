@@ -22,3 +22,7 @@ sidebar-category:
   - title: "📁 JavaScript"
     url: "/javascript"
     category: "JavaScript"
+
+  - title: "📁 Network"
+    url: "/network"
+    category: "Network"
