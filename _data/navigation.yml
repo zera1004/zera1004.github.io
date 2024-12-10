@@ -26,3 +26,7 @@ sidebar-category:
   - title: "📁 Network"
     url: "/network"
     category: "Network"
+  
+  - title: "📁 Troubleshooting"
+    url: "/troubleshooting"
+    category: "Troubleshooting"
