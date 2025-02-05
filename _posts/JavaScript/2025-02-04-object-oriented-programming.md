@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
  
 date: 2025-02-05 09:10:30 +0900
-last_modified_at: 2025-02-05 09:11:30 +0900
+last_modified_at: 2025-02-05 20:08:30 +0900
 ---
 
 ## OOP(object-oriented-programming)란?
@@ -31,9 +31,9 @@ OOP, 객체 지향 프로그래밍은, 소프트웨어 설계 및 개발에서 *
 
 ## OOP의 특징
 
-<br>
-
 OOP는 **캡슐화, 상속, 추상화, 다형성**이라는 특징을 가짐
+
+<br>
 
 ### 캡슐화 (Encapsulation)
 
