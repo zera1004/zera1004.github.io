@@ -100,8 +100,8 @@ ES6(ECMAScript 2015)부터 도입된 `let`은 `var`의 단점을 보완하기 �
   `let`도 호이스팅되지만, **"일시적 사각지대(Temporal Dead Zone, TDZ)"** 가 발생하여 선언 전에 접근하면 에러가 발생
 
   ```js
-  console.log(x);
-  let x = 10; // ReferenceError: Cannot access 'x' before initialization
+  console.log(x); // ReferenceError: Cannot access 'x' before initialization
+  let x = 10;
   ```
 
 <br>
@@ -131,7 +131,7 @@ ES6(ECMAScript 2015)부터 도입된 `let`은 `var`의 단점을 보완하기 �
 
   ```js
   const x = 100;
-  e = 150; // TypeError: Assignment to constant variable.
+  x = 150; // TypeError: Assignment to constant variable.
   ```
 
 - **불변 객체?**
