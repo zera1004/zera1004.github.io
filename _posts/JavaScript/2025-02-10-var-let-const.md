@@ -134,6 +134,9 @@ ES6(ECMAScript 2015)부터 도입된 `let`은 `var`의 단점을 보완하기 �
   x = 150; // TypeError: Assignment to constant variable.
   ```
 
+- **호이스팅**  
+  `const`도 `let`과 마찬가지로 호이스팅되지만, **"일시적 사각지대(Temporal Dead Zone, TDZ)"** 가 발생하여 선언 전에 접근하면 에러가 발생
+
 - **불변 객체?**
   `const`로 선언한 객체나 배열은 재할당할 수 없지만, 내부의 속성이나 요소는 변경할 수 있음
 
