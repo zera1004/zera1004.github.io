@@ -20,6 +20,8 @@ JavaScript에서 `async/await`는 비동기 코드를 동기처럼 작성할 수
 이는 Promise를 기반으로 하며, 비동기 작업을 더 간결하고 읽기 쉽게 만들어 줌  
 `async/await`를 사용하면 콜백 지옥을 피하고, 복잡한 비동기 로직을 간단하게 표현할 수 있음
 
+[[JS]Promise란?](https://zera1004.github.io/javascript/promise/)
+
 <br>
 
 ### async
