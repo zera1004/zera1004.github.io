@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2025-02-13 20:35:00 +0900
-last_modified_at: 2025-02-13 20:35:30 +0900
+date: 2025-02-13 20:15:00 +0900
+last_modified_at: 2025-02-13 20:15:30 +0900
 ---
 
 ## 깊은 복사(Deep Copy)와 얕은 복사(Shallow Copy)
