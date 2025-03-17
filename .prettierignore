@@ -1,0 +1,5 @@
+# Jekyll 설정 파일 무시
+_config.yml
+
+# 필요하다면 모든 YAML 파일 무시
+# *.yml
