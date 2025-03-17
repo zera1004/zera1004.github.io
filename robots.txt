@@ -1,3 +1,6 @@
+---
+layout: null
+---
 User-agent: *
 Allow: /
-Sitemap: {{ '/sitemap.xml' | relative_url | prepend: site.url }}
+Sitemap: {{ site.url }}/sitemap.xml
