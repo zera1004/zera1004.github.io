@@ -37,7 +37,7 @@ The chosen installation directory is invalid, as it does not meet the security r
 
 ![상속 사용 안함](https://github.com/user-attachments/assets/f3547be2-d610-46a5-9542-63f6fb2380fe)
 
-상속 사용 안 함(L) 클릭
+상속 사용 안 함 클릭
 
 ![권한 변환](https://github.com/user-attachments/assets/24d6070d-c88f-44b4-aaa1-8deebe02ff00)
 
